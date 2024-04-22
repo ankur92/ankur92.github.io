@@ -17,5 +17,6 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, I am a Research Scientist at the AWS Center for Quantum Networking focused on developing the control hardware and software for rapid material characterization and manipulation of spin qubits embeded in diamond nano-photonic structures. Previously, I worked with superconducting qubit-cavity systems for quantum sensing applications such as dark matter.
+Hi, I am a Research Scientist at the AWS Center for Quantum Networking focused on developing the control hardware and software for rapid material characterization and manipulation of spin qubits embeded in diamond nano-photonic structures. Previously, I worked with superconducting qubit-cavity systems to build novel detectors at microwave frequencies for quantum sensing applications such as dark matter.
 
+I grew up in Rajasthan, India before moving to Bombay (Mumbai) for my undergraduate studies. For my master's thesis, I studied radiation damage caused by particles from collision events at CERN as they traversed the detector volume.
