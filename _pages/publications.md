@@ -58,6 +58,6 @@ sections:
 <p>Nat. Jour. : National Journal article</p>
 <p>Int. Ws : International Workshop article / poster</p>
 <p>Int. Conf. : International Conference article / poster</p>
-<p>Int. Jour. : International Journal article</p> --> -->
+<p>Int. Jour. : International Journal article</p>
 
 </div>
