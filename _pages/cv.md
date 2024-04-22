@@ -15,5 +15,5 @@ nav: true
 nav_order: 4
 dropdown: false
 newtab: true
-permalink:  /assets/pdf/Resume_Ankur_Agrawal_2024.pdf
+permalink:  assets/pdf/Resume_Ankur_Agrawal_2024.pdf
 ---
