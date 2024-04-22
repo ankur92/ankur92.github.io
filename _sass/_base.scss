@@ -1065,6 +1065,16 @@ nav[data-toggle="toc"] {
     height: 0;
     top: 0;
   }
+  /* Publications - Year display in mobile */
+  h2.year {
+    border-top: 1px solid var(--global-theme-color);
+    margin-bottom: 2rem!important;
+    // reset
+    border-top: 0 !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    color: var(--global-orange-color);
+  }
 }
 
 .featured-posts {
