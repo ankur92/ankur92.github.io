@@ -32,8 +32,8 @@
       institution: AWS Center for Quantum Networking
       year: Sept 2022 - 
       description:
-        - Control stack for rapid material characterization
-        - Electromagnetic simulation of CPWs, PCBs for microwave delivery to spin qubits
+        - Control hardware and software development for rapid material characterization
+        - Electromagnetic simulation of on-chip CPWs, PCBs for microwave delivery to spin qubits
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -43,7 +43,9 @@
       year: 2016-2022
       description:
         - Description 1.
-        - Description 2.
+        - title: Axion Dark Matter Experiment (ADMX)
+          contents:
+            - Built hot-load measurement (Y-factor) analysis framework to study and measure the systematic effects of magnetic field and input frequency on the noise temperature of cryogenic amplifiers.
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
