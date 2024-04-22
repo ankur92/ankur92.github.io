@@ -16,11 +16,10 @@
       year: 2022
       description:
         - Co-advised by Prof. David Schuster and Dr. Aaron Chou (Fermilab)
-        - title: Description 3.
+        - title: PhD in Physics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Bachelors of Technology
+            - Superconducting Qubit Advantage for Dark Matter (SQuAD)
+    - title: Bachelors and Masters of Technology
       institution: Indian Institute of Technology (IIT) Bombay, India
       year: 2016
       description:
@@ -33,12 +32,12 @@
       institution: AWS Center for Quantum Networking
       year: Sept 2022 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Control stack for rapid material characterization
+        - Electromagnetic simulation of CPWs, PCBs for microwave delivery to spin qubits
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: Graduate Research Assistant
       institution: The University of Chicago, IL, US
       year: 2016-2022
@@ -92,4 +91,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Sourdough baking, Biking, etc.
+    - <u>Hobbies:</u> Sourdough baking, reading on diplomatic history, biking, etc.
