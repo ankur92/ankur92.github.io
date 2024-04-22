@@ -42,7 +42,7 @@
       institution: The University of Chicago, IL, US
       year: 2016-2022
       description:
-        - Description 1.
+        - Quantum metrology with superconducting qubit-cavity systems
         - title: Axion Dark Matter Experiment (ADMX)
           contents:
             - Built hot-load measurement (Y-factor) analysis framework to study and measure the systematic effects of magnetic field and input frequency on the noise temperature of cryogenic amplifiers.
