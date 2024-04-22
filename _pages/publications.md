@@ -52,5 +52,4 @@ sections:
 
 {%- endif -%}
 
-<p style="border-top: 1px solid #2698BA; padding-top: 8em"></p>
 </div>
