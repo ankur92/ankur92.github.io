@@ -53,11 +53,4 @@ sections:
 {%- endif -%}
 
 <p style="border-top: 1px solid #2698BA; padding-top: 1em"></p>
-<!-- <p>Nat. Ws : National Workshop article / poster</p>
-<p>Nat. Conf. : National Conference article / poster</p>
-<p>Nat. Jour. : National Journal article</p>
-<p>Int. Ws : International Workshop article / poster</p>
-<p>Int. Conf. : International Conference article / poster</p>
-<p>Int. Jour. : International Journal article</p>
-
 </div>
